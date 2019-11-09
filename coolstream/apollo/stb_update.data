@@ -1,0 +1,4 @@
+# get this info with "make get-update-info"
+V_KERNEL="Sun Nov 5 18:47:11 CET 2017"
+#V_UBOOT="Apr 03 2015 - 16:35:07"
+#V_ULDR="08 2015 09:37:26"
